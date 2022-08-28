@@ -1,0 +1,47 @@
+{
+    "name": "KostyablNew #2",
+    "description": "#2",
+    "symbol": "KBLC",
+    "image": "https://raw.githubusercontent.com/kostyabl/nft-example/main/2.png",
+    "external_url": "https://raw.githubusercontent.com/kostyabl/nft-example/main/2.png",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "KostyablNew nft #2"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Property int 2",
+            "value": 1
+        },
+        {
+            "trait_type": "Property string 2",
+            "value": "some string"
+        }
+    ],
+    "collection": {
+        "family": "KostyablNew NFT",
+        "name": "KostyablNew"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/kostyabl/nft-example/main/2.png",
+                "type": "image/png",
+                "cdn": true
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "7iJ2y39ebVUEjSEMcmZfWp7oUJZor7qJ1DSfxLpbQPEJ",
+                "share": 100
+            }
+        ],
+        "id": "2"
+    },
+    "seller_fee_basis_points": 500
+}
